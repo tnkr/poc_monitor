@@ -62,3 +62,20 @@
 
 **Description:** ... that. Probably will be included in #ransomware campaigns. Any technical analysis of CVE-2024-49112 published? CC: @gentilkiwi @harmj0y @_wald0. Image.
 
+
+# Updates on 2024-12-16 19:15:55
+### Result 1
+**Title:** [Advisory: Critical vulnerability in Windows LDAP (CVE-2024-49112)](https://www.mnemonic.io/resources/blog/advisory-critical-vulnerability-in-windows-ldap-cve-2024-49112/)
+
+**Description:** 3 days ago ... Advisory: Critical vulnerability in Windows LDAP (CVE-2024-49112) ... Microsoft has disclosed a critical remote code execution vulnerability in ...
+
+### Result 2
+**Title:** [Hunter (@HunterMapping) / X](https://x.com/huntermapping?lang=en)
+
+**Description:** CVE-2024-49112 Critical RCE vulnerability affecting the Windows LDAP ... PoC for CVE-2024-51378; CyberPanel Command Injection Vulnerability https ...
+
+### Result 3
+**Title:** [Home - vsociety](https://www.vicarius.io/vsociety/)
+
+**Description:** Write-Output "Checking system configuration for CVE-2024-49112..." # Check if the system is a Domain Controller. $isDomainController = (Get-WmiObject ...
+

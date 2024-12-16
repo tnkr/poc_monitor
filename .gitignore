@@ -3,6 +3,7 @@
 
 # Ignore log files
 *.log
+poc_monitor_log.md
 /var/log/poc_monitor/
 
 # Ignore cache files
