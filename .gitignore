@@ -1,0 +1,11 @@
+# Ignore the .env file
+.env
+
+# Ignore log files
+*.log
+/var/log/poc_monitor/
+
+# Ignore cache files
+*.pyc
+__pycache__/
+poc_cache.json
